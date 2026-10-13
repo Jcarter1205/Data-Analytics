@@ -1,0 +1,57 @@
+
+
+1 through 5 to represent the five survey questions. For each survey question, consider
+the following:
+1. What conclusion can you reach about the responses to this question?
+2. Is the default summary or visualization helpful? How could it be improved?
+3. For questions with an “Other” option, where can you find the actual text of those
+responses? Do you notice anything that might be tricky about analyzing these?
+4. For questions calling for a written response, what challenges do you notice about
+finding trends or patterns in the answers provided?
+5. Now that you can see the responses, how might you recommend rephrasing this or
+question or the response options in a future survey?
+
+
+1.What do you envision yourself doing 5 minutes before class starts each day, to ensure that you are ready to start on time?
+
+The answers for this question vary in how everyone answered the question though everyone wants the same thing. we want to come to class earlier to be on time more consistently and to be camera ready.The default summary/visualization could be more tidy by wrapping the text in the excel sheet. Since the summary was put in excel I'm mot able to view the questions that had other as a response. The challenges I notice in written responses are that most are worried about staying prepared, meeting expectations, getting to know more about the course and getting apps set up properly. This question does not need to reworded as it makes perfect sense.
+
+
+2.Do you have a second monitor connected to your computer?
+
+Majority of the class another monitor with less than a few who don't.The default summary/visualization could be more tidy by wrapping the text in the excel sheet. Since the summary was put in excel I'm mot able to view the questions that had other as a response. The challenges I notice in written responses are mostly the same. This question does not need to reworded as it makes perfect sense.
+
+
+
+3.Do you have an external keyboard and mouse?
+
+From the looks of the survey it looks like the class is split fifty-fifty on whether or not they have an external keyboard and mouse. This is a yes or no question, since the summary was put in excel I'm mot able to view the questions that had other as a response. The challenges I notice in written responses are mostly the same. This question does not need to reworded as it makes perfect sense.
+
+
+
+4.How do you plan to take notes for this class – in a doc on your computer, with pen and paper, or something else? 
+
+My conclusion is that majority of the class is taking notes in their notes books while there is a small amount of us left that is taking notes on our laptops. The default summary/visualization could be more tidy by wrapping the text in the excel sheet. Since the summary was put in excel I'm mot able to view the questions that had other as a response. The challenges I notice in written responses are mostly the same. This question does not need to reworded as it makes perfect sense.
+
+5.What is one question that you have right now, about this course generally or about a specific topic we’ll be talking about?
+
+My conclusion from the Reponses from this question is that there are a good mix of questions from everyone. Some have questions about tutor support, what they will be learning more in depth, gaining access to certain applications need to complete work and some don't have questions at all. The default summary/visualization could be more tidy by wrapping the text in the excel sheet. Since the summary was put in excel I'm mot able to view the questions that had other as a response. The challenges I notice in written responses are that most are worried about staying prepared, meeting expectations, getting to know more about the course and getting apps set up properly. This question does not need to reworded as it makes perfect sense.
+
+Next respond to the below questions:
+6. Is there anything that surprised you about the survey responses?
+
+The question about having another screen to look at surprised me about but it made sense because we will be using multiple apps, some at the same time.
+
+7. Looking at the responses to questions 1 and 5, are there any ideas you might try to
+include in your morning routine, or any questions that you are also curious about?
+
+So far there is nothing that I would like t add to my morning routine. I'm most curious about how I study for certifications as well.
+
+8. Pretend you are the instructor. Is there anything you can learn from this survey to help
+in how you approach teaching this class?
+
+What I learned from this survey is that it would be beneficial to let DA students know from he start they will most likely need another screen/monitor and to allow us to be able to go to cooperate partner day so we can make connection for internship and practice speaking about what we are learning.
+
+9. Again, pretend you are the instructor. Do you think it was helpful or not helpful to
+make this survey anonymous? Why or why not? (If you can see both pros and cons,
+you may include both
