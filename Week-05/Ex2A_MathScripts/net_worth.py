@@ -17,6 +17,6 @@ total_debts = credit_card + student_loan + car_loan
 net_worth = total_assets - total_debts
 
 # Display results
-print("Your total assets are " + str(total_assets))
-print("Your total debts are " + str(total_debts))
-print("Your net worth is " + str(net_worth))
+print(f"Your total assets are {total_assets}")
+print(f"Your total debts are {total_debts}")
+print(f"Your net worth is {net_worth}")
