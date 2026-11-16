@@ -15,3 +15,7 @@ print("The area of the rectangle is " + str(area))
 # input() initially collects information as text.
 # float() converts the input into a number so Python can perform calculations.
 # If the user enters letters instead of numbers, the calculation will produce an error.
+
+# Pitfall 1: input() collects information as a string (text).
+# Pitfall 2: float() or int() is needed to convert numbers for calculations.
+# Pitfall 3: Entering letters or invalid values can cause a ValueError.
